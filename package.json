@@ -1,0 +1,12 @@
+{
+    "name": "order-watcher",
+    "version": "1.0.0",
+    "main": "watchOrders.js",
+    "scripts": {
+      "start": "node watchOrders.js"
+    },
+    "dependencies": {
+      "mongodb": "^5.7.0",
+      "nodemailer": "^6.9.1"
+    }
+  }
